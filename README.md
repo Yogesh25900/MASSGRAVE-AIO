@@ -5,3 +5,6 @@
 -  irm https://massgrave.dev/get | iex <br>
 You will see the activation options. Follow the on-screen instructions.
 That's all.
+Not made by me !!!
+## Contributions
+[Massgravel](https://github.com/massgravel/Microsoft-Activation-Scripts)
